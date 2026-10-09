@@ -23,6 +23,6 @@
 ## 🚀 Projetos em destaque
 
 ### [🗂️ PortR1ck](https://github.com/r1ckfy/PortR1ck)
-Portfólio com 8 projetos front end em HTML, CSS e JavaScript: landing pages, formulários, portal de notícias e um criador de convites com preview em tempo real.
+Portfólio com 9 projetos front end em HTML, CSS e JavaScript: landing pages feitas a partir do Figma, formulários, portal de notícias e um criador de convites com preview em tempo real.
 
 🌐 [Ver online](https://r1ckfy.github.io/PortR1ck/)
