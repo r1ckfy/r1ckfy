@@ -5,6 +5,10 @@
   Crio APIs REST com Docker, Prisma e PostgreSQL e interfaces bonitas e responsivas no front end.
 </p>
 
+<p align="center">
+  🎓 Estudante na <a href="https://www.rocketseat.com.br/faculdade"><b>Faculdade Rocketseat</b></a>
+</p>
+
 ## 🛠️ Stack
 
 <p>
